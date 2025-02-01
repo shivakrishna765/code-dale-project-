@@ -89,7 +89,7 @@ module.exports = {
   },
   plugins: [],
 }
-//App.js
+//cursor function 
 import React, { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import './App.css'; // Custom CSS for cursor and other styling
